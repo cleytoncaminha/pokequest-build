@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.6dea0f05.chunk.css",
+    "main.js": "./static/js/main.1479c213.chunk.js",
+    "main.js.map": "./static/js/main.1479c213.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.201b5774.js",
+    "runtime-main.js.map": "./static/js/runtime-main.201b5774.js.map",
+    "static/js/2.2bf6b4a0.chunk.js": "./static/js/2.2bf6b4a0.chunk.js",
+    "static/js/2.2bf6b4a0.chunk.js.map": "./static/js/2.2bf6b4a0.chunk.js.map",
+    "static/js/3.c231070d.chunk.js": "./static/js/3.c231070d.chunk.js",
+    "static/js/3.c231070d.chunk.js.map": "./static/js/3.c231070d.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "./static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.2bf6b4a0.chunk.js.LICENSE.txt": "./static/js/2.2bf6b4a0.chunk.js.LICENSE.txt",
+    "static/media/ashhat.af6b9041.png": "./static/media/ashhat.af6b9041.png",
+    "static/media/logopoke.935a673b.png": "./static/media/logopoke.935a673b.png",
+    "static/media/rocket.2a5563af.png": "./static/media/rocket.2a5563af.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.201b5774.js",
+    "static/js/2.2bf6b4a0.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.1479c213.chunk.js"
+  ]
+}
